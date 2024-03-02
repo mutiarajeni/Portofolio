@@ -1,0 +1,40 @@
+body {
+    min-height: 2000px;
+}
+
+.background {
+    background-color: #e0dad6;
+}
+
+.kontak {
+    width: 95%;
+    max-width: 500px;
+    margin: 20px auto 0px auto;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px #917f74;
+    background-color: #c7c6c5;
+}
+
+.mybtns {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.mybtns>button {
+    margin-right: 10px;
+}
+
+.cards {
+    margin: 20px auto 0px auto;
+    width: 95%;
+    max-width: 1200px;
+}
+
+.slide{
+    margin: 20px auto 0px auto;
+    width: 55%;
+    max-width: 1200px;
+}
